@@ -1,1 +1,1 @@
-# My Awesome Greeter
+# Prosemirror Mentions ported to TypeScript
